@@ -19,7 +19,7 @@ Performing analysis to uncover trends in kickstarter data
 **Outcomes based on Goals**
 - Across all fundraising goals, the campaigns with budgets less than $5000 were the most successful and reached their goal 76% and 73%, respectively. 
 
-** Limitations of the Data Set and Future Views ** 
+**Limitations of the Data Set and Future Views** 
 - The dataset did not contain sufficient information to identify all the factors that dictated whether or not a theater campaign was successful. For example, the median goal of *failed* plays was $5,000, which means that 50% of plays *still* failed despite being less than $5,000. This implies that other factors were at play. It would be useful to analyze trends among the successful campaigns such as commonalities within proposed story plot, subject, region/city, time length of play, etc. 
 
 - Additionally, it would be useful to create more graphs related to how average donation and number of backers within the different outcomes. It could also be worth mapping how these trends over each year (instead of by month) for further insights. 
