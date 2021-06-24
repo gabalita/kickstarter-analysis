@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis to uncover trends in kickstarter data
 
-#Identifying What Makes a Play Successful on Kickstarter
+# Identifying What Makes a Play Successful on Kickstarter
 
 ## Overview of the Project
 - The purpose of this project was to identify factors that make a campaign successful on Kickstarter. The uncovered trends related to the launch date of the campaign, its fundraising goals, the type of campaign, and so forth. 
