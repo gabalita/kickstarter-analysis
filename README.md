@@ -20,7 +20,7 @@
 
 **Limitations**
 - One limitation of our analysis is that it includes outlier data. Outlier data points were successful campaigns with goals > $10,250 and failed campaigns with goals > $22,000. Exclusion of these points decreases the mean and median by the following:
-- [image](https://user-images.githubusercontent.com/10199828/123544039-672ea400-d71f-11eb-8ef8-1b099065f33e.png)
+- ! [image](https://user-images.githubusercontent.com/10199828/123544039-672ea400-d71f-11eb-8ef8-1b099065f33e.png)
 
 
 
