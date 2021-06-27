@@ -11,7 +11,8 @@
 ## Results and Recommendations 
 **Theater Outcomes by Launch Date**
 - On average the months April to August had the highest raw number and percentage of successful theater campaigns.
-- Fail and cancel rates stay relatively consistent, whereas the number of successful campaigns usually peaks in May and steadily decreased throughout the rest of the year. 
+- Fail and cancel rates stay relatively consistent, whereas the number of successful campaigns usually peaks in May and steadily decreased throughout the rest of the year.
+- ![](./Theater_Outcomes_vs_Launch.png)
 
 **Outcomes based on Goals**
 - Across all fundraising goals, the campaigns with budgets less than $5000 (0-$1000, and $1000-$5000) were the most successful and reached their goal 76% and 73% of the time, respectively. 
