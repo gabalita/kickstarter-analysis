@@ -10,18 +10,21 @@
 
 ## Results 
 **Theater Outcomes by Launch Date**
-- On average April to August have the highest number and percentage of successful theater campaigns.
--  Fail and cancel rates stay relatively consistent, whereas the number of successful campaigns usually peaks in May and steadily decreased throughout the rest of the year. 
+- On average the months April to August had the highest raw number and percentage of successful theater campaigns.
+- Fail and cancel rates stay relatively consistent, whereas the number of successful campaigns usually peaks in May and steadily decreased throughout the rest of the year. 
 
 **Outcomes based on Goals**
-- Across all fundraising goals, the campaigns with budgets less than $5000 were the most successful and reached their goal 76% and 73%, respectively. 
+- Across all fundraising goals, the campaigns with budgets less than $5000 (0-$1000, and $1000-$5000) were the most successful and reached their goal 76% and 73% of the time, respectively. 
 
 **Limitations of the Data Set and Future Views** 
 
 **Limitations**
-- The dataset did not contain sufficient information to identify all the factors that dictated whether or not a theater campaign was successful. For example, the median goal of *failed* plays was $5,000, which means that 50% of plays *still* failed despite being less than $5,000. This implies that other factors were at play. It would be useful to analyze trends among the successful campaigns such as commonalities within proposed story plot, subject, region/city, time length of play, etc. 
+- One limitation of our analysis is that it includes outlier data. Outlier data points were successful campaigns with goals > $10,250 and failed campaigns with goals > $22,000. Exclusion of these points decreases the mean and median by the following:
 
-- Another limitation was that these numbers included several outliers, which skewed the data.  
+
+
+- Another limitation is that dataset itself cannot explain everything. For example, on average successful campaigns were plays with cheap budgets that hovered around $5,000. That being said, the median goal of *failed* plays was $5,000, which means that despite being relatively cheap, 50% of plays *still* failed. This implies that cost isn't everything, and that other factors were at play. It would be useful to conduct a qualitative analysis assessing the commonalities within successful plays (e.g. were the subject/plots similar?) or perhaps obtain more data that assessed other factors such as play time length, number of actors, and region/city of play. 
+
 
 **Future Views**
 - Additionally, it would be useful to create more graphs related to how average donation and number of backers within the different outcomes. 
