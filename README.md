@@ -16,6 +16,7 @@
 
 **Outcomes based on Goals**
 - Across all fundraising goals, the campaigns with budgets less than $5000 (0-$1000, and $1000-$5000) were the most successful and reached their goal 76% and 73% of the time, respectively. 
+- ![](./Outcomes_vs_Goals.png)
 
 **Limitations of the Data Set** 
 
