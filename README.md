@@ -20,6 +20,12 @@
 
 **Limitations**
 - One limitation of our analysis is that it includes outlier data. Outlier data points were successful campaigns with goals > $10,250 and failed campaigns with goals > $22,000. Exclusion of these points decreases the mean and median by the following:
+- 	Successful plays	Failed plays	Successful (no outliers >$10250)	Failed plays (no outliers>$22,000)
+Mean Goal	 $5,049 	 $10,554 	 $2,124 	 $2,937 
+Median Goal	 $3,000 	 $5,000 	 $2,500 	 $3,000 
+Upper quartile 75th	 $5,000 	 $10,000 	 $4,500 	 $6,286 
+Lower quartile 25th	 $1,500 	 $2,000 	 $1,000 	 $1,500 ![image](https://user-images.githubusercontent.com/10199828/123544039-672ea400-d71f-11eb-8ef8-1b099065f33e.png)
+
 
 
 
