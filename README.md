@@ -1,6 +1,3 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis to uncover trends in kickstarter data
-
 # Identifying What Makes a Play Successful on Kickstarter
 
 ## Overview of the Project
