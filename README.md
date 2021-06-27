@@ -4,7 +4,7 @@
 - The purpose of this project was to identify factors that make campaigns --  specifically plays in the United States -- successful on Kickstarter.  
 
 ## Analysis and Challenges
-- To perform how the timing of a campaign determined its success, we used a simple Pivot Table to tabulate over 1,000 outcomes captured for theater data over the years. To determine how campaign goal affected success and fail rate, we counted the number of campaigns for each goal size using countif functions. We then did simple division to find the corresponding success/fail percentages for each outcome category.  The complete Excel file is accessible [Kickstarter Challenge](path/to/filename.xlxs)
+- To perform how the timing of a campaign determined its success, we used a simple Pivot Table to tabulate over 1,000 outcomes captured for theater data over the years. To determine how campaign goal affected success and fail rate, we counted the number of campaigns for each goal size using countif functions. We then did simple division to find the corresponding success/fail percentages for each outcome category.  The complete Excel file is accessible [Kickstarter Challenge](Kickstarter_Challenge.xlsx.xlxs)
 
 <img width="328" alt="Launch Date Pivot Table" src="https://user-images.githubusercontent.com/10199828/123546782-12455a80-d72c-11eb-95d2-5756dec583a0.png">
 <img width="786" alt="Goal Size Table" src="https://user-images.githubusercontent.com/10199828/123546793-1e311c80-d72c-11eb-8eab-2449cddf3e25.png">
